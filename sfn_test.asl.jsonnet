@@ -1,5 +1,5 @@
 {
-  "StartAt": "StateName,
+  "StartAt": "StateName",
   "States": {
     "StateName": {
       "Type": "Pass",
